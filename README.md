@@ -10,13 +10,13 @@ The objective of this project is to perform packet analysis on Wireshark packets
 1. Sign up for an [IBM Cloud Account](https://console.bluemix.net/registration/).
 1. Login to [Watson Studio](https://www.ibm.com/cloud/watson-studio).
 
-## Running the Jupyter notebook
+## 1. Running the Jupyter notebook
 
 ### 1. Sign up for Watson Studio
 
 Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com/).
 
-### 1. Create a new Project
+### 2. Create a new Project
 
 > Note: By creating a project in Watson Studio a free tier `Object Storage` service will be created in your IBM Cloud account. Take note of your service names as you will need to select them in the following steps.
 
@@ -26,7 +26,7 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com/).
 
 * Name your project, select the Cloud Object Storage service instance and click `Create`.
 
-## 1. Import notebook to Watson Studio Project
+## 2. Import notebook to Watson Studio Project
 
 * Create a **New Notebook**.
 
@@ -34,7 +34,7 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com/).
 
 * Give a name to the notebook and select a `Python 3.5` runtime environment, then click `Create`.
 
-## 1. Import dataset to Watson Studio Project
+## 3. Import dataset to Watson Studio Project
 
 * Click on `Add to Project` and select `Data`.
 
@@ -44,7 +44,7 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com/).
 
 * You can now use it in your Watson notebook. 
 
-## 6. Follow the steps in the notebook
+## 4. Follow the steps in the notebook
 
 ## Resources 
 + [Unofficial guide to using Scapy](https://theitgeekchronicles.files.wordpress.com/2012/05/scapyguide1.pdf)
