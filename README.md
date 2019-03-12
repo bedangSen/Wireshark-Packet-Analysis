@@ -7,8 +7,8 @@ The objective of this project is to perform packet analysis on Wireshark packets
 
 ## Getting Started 
 
-1. Sign up for an [IBM Cloud Account](https://console.bluemix.net/registration/)
-1. Login to [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+1. Sign up for an [IBM Cloud Account](https://console.bluemix.net/registration/).
+1. Login to [Watson Studio](https://www.ibm.com/cloud/watson-studio).
 
 ## Running the Jupyter notebook
 
@@ -24,21 +24,27 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com/).
 
 * Choose the `Data Science` option and click `Create Project`.
 
-* Name your project, select the Cloud Object Storage service instance and click `Create`
+* Name your project, select the Cloud Object Storage service instance and click `Create`.
 
-## 1. Import notebook to Watson Studio
+## 1. Import notebook to Watson Studio Project
 
 * Create a **New Notebook**.
 
-* Import the notebook found in this repository
+* Import the notebook found in this repository.
 
 * Give a name to the notebook and select a `Python 3.5` runtime environment, then click `Create`.
 
+## 1. Import dataset to Watson Studio Project
+
+* Click on `Add to Project` and select `Data`.
+
+* A panel should appear on the right where you can drag and drop your data assets. 
+
+* Download the Packet file from the repository and drag and drop it onto the panel. 
+
+* You can now use it in your Watson notebook. 
+
 ## 6. Follow the steps in the notebook
-
-The steps in the notebook should allow you to understand how to download the dataset, create a model that uses Naive Bayes Classification and then visualize it using a Confusion Matrix and Heat map. 
-
-Finally you should be able to test the model and check it's accuracy.
 
 ## Resources 
 + [Unofficial guide to using Scapy](https://theitgeekchronicles.files.wordpress.com/2012/05/scapyguide1.pdf)
