@@ -1,7 +1,9 @@
 # Wireshark-Packet-Analysis
 The objective of this project is to perform packet analysis on Wireshark packets. In order to do this, we will leverage some of Python's libraries like Scapy, Pandas and Seaborn. 
 
-![alt-img]("C:\Users\BedangSen\Pictures\1.png")
+![alt-img]("https://github.com/bedangSen/Wireshark-Packet-Analysis/blob/master/Images/Port%20Destination.png")
+![alt-img]("https://github.com/bedangSen/Wireshark-Packet-Analysis/blob/master/Images/Address%20Destination.png")
+      
 
 ## Getting Started 
 
