@@ -50,4 +50,4 @@ Sign up for IBM's [Watson Studio](https://dataplatform.ibm.com/).
 + [Unofficial guide to using Scapy](https://theitgeekchronicles.files.wordpress.com/2012/05/scapyguide1.pdf)
 + [Seaborn Documentation](https://seaborn.pydata.org/)
 + [Learning Packet Analysis with Data Science](https://secdevops.ai/learning-packet-analysis-with-data-science-5356a3340d4e)
-+ [Cyber Talents - Packet Abomination Challenge](https://cybertalents.com/challenges/forensics/packet-abomination)
++ [Cyber Talents - Packet Abomination Challenge](https://cybertalents.com/challenges/forensics/cypher-anxiety)
